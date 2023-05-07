@@ -98,20 +98,20 @@ a:link, a:visited {
     align-content: space-around;
 }
 
-.menu-img {
+.menu-imag {
     height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-.img{
+img{
     height: 250px;
 
 }
-.menu-title{
+.menu-imag{
     text-align: center;
     color: #290101;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 img:hover{
@@ -123,6 +123,6 @@ footer .container {
     height: 50px;
     background-color: goldenrod;
     color: aliceblue;
-    padding-top: 20px;
-    margin-top: 150px;
+    padding-top: 8px;
+    margin-top: 100px;
 }
